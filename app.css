@@ -1,0 +1,24 @@
+
+dody{
+    background-color: #94dbb2;
+    font-family: Alkatra, cursive;
+}
+#mainNavbar{
+    font-size: 1.5rem;
+    font-weight: 100;
+}
+#mainNavbar .nav-link{
+    color: white;
+
+}
+#mainNavbar .nav-link:hover{
+color: #ea1c2c;
+}
+#mainNavbar .navbar-brand{
+    color: #ea1c2c;
+    font-size: 1.5rem;
+
+}
+#headingGroupe span {
+color: #ea1c2c;
+}
